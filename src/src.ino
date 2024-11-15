@@ -89,7 +89,7 @@ void setup() {
 }
 
 void loop() {
-    delay(15000);
+    delay(90000);
     sendToServer();
 }
 
